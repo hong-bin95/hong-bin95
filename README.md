@@ -17,6 +17,16 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
   <img src="https://img.shields.io/badge/Dynamics 365-A4373A?style=for-the-badge&logo=Dynamics 365&logoColor=white">
 </p>
+
+<p align='center'>
+  ✨링크🎉
+</p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105191633/227961244-6f04a4a9-ce2d-4411-99ce-19f1b4ecdb01.png" href="https://dev-hongbin.tistory.com/" height="28"> 
+  
+</div>
+
 <p align='center'>
   🍿커밋🍿
 </p>
